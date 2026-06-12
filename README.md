@@ -1,6 +1,8 @@
-## Hi there 👋 I'm Noor Taquee
+## Hi there 👋, I'm Noor Taquee
 
 **Student**
+
+Currently learning app development
 
 ---
 
@@ -19,6 +21,12 @@ These are the projects I made to learn about web development _(frontend, backend
 
 - **[Practicals](https://github.com/Noor-Taquee/Practicals)** : _Automate practical calculation_
 - **[Ledger](https://github.com/Noor-Taquee/Ledger)** : _Diary of expenditures_
+
+---
+
+### 🌐 Learning App Development
+
+- **[android-app-sample](https://github.com/Noor-Taquee/android-app-sample)**
 
 ---
 
