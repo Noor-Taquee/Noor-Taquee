@@ -40,3 +40,5 @@ These are the projects I made to learn about web development _(frontend, backend
 ---
 
 ## 📊 GitHub Analytics
+![Noor's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Noor-Taquee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Noor-Taquee&layout=compact&theme=radical)
