@@ -40,5 +40,6 @@ These are the projects I made to learn about web development _(frontend, backend
 ---
 
 ## 📊 GitHub Analytics
-![Noor's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Noor-Taquee&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Noor-Taquee&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Noor-Taquee&include_all_commits=true&count_private=true&hide_rank=true&hide=contribs&show_icons=true&hide_border=true&border_radius=10&theme=dark&icon_color=ffffff)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Noor-Taquee&layout=compact&langs_count=20&hide_border=true&border_radius=10&theme=dark)
